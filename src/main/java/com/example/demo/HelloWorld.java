@@ -8,6 +8,6 @@ import javax.annotation.PostConstruct;
 public class HelloWorld {
     @PostConstruct
     void Hello(){
-        System.out.println("Hello");
+        System.out.println("Helloo");
     }
 }
